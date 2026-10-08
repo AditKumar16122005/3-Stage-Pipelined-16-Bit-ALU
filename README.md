@@ -1,12 +1,6 @@
 # 3-Stage-Pipeline
 A Three Stage Pipeline 16-bit processor implemented in Verilog 
 
-1. Find tentative design at:
-    https://docs.google.com/presentation/d/1UTbuw8olqJFvrFJ2w_zIRk5LXlS1WgDOVkUarwExFcI/edit?usp=sharing
-
-2. Find the work documenntation at:
-    https://docs.google.com/document/d/1LWTGpOkcxlFyOM4ZgRy-z_-gj--4XCp7ZGnfy8bdTfU/edit?usp=sharing
-    
 ## Instructions
 
 1. Generate executable of main testbench from this directory:
